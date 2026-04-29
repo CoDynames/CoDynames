@@ -3,8 +3,14 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas na Unifametro**, em Fortaleza/CE.
 
 ### 🚀 No que estou trabalhando agora:
-* **Gestão de Dados Botânicos:** Desenvolvendo um ecossistema completo usando **SQLite** para estruturação e **Power BI (DAX)** para análise inteligente de dados.
-* **Integração Backend:** Colaborando em projetos de comunicação entre bancos de dados e aplicações **Java**.
+
+* **Sistema de Inventário e Inteligência de Dados (Em Desenvolvimento):**
+    * Estou liderando a **Arquitetura de Dados** de uma solução de inventário complexo, estruturando o banco de dados em **SQLite** com foco em normalização e integridade referencial.
+    * Atuo na **Engenharia de Backend**, desenvolvendo em **Java** a camada de persistência e as regras de negócio que permitem a comunicação eficiente entre a aplicação e a base de dados.
+    * Responsável pela vertical de **Business Intelligence**, onde utilizo **Power BI e DAX** para construir dashboards de monitoramento que transformam os registros brutos em indicadores estratégicos (KPIs) em tempo real.
+    * Foco atual: Otimização de queries SQL e melhoria na escalabilidade da integração Java-Database para garantir a performance do sistema.
+
+* **Evolução Técnica:** Dedicando tempo ao estudo de novas bibliotecas Java e técnicas avançadas de modelagem de dados para implementar melhorias contínuas neste e em futuros projetos.
 
 ### 🛠️ Meu Toolbox:
 * **Linguagens:** Java (estudando a fundo), SQL, Lógica de Programação.
