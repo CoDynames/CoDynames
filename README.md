@@ -12,9 +12,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na Unifametro**, em Fo
     * Foco atual: Otimização de consultas SQL e suporte à integração de sistemas para garantir a performance da solução final entregue pela equipe.
 
 ### 🛠️ Meu Toolbox:
-* **Linguagens:** Java, SQL (SQLite/MySQL).
-* **Tecnologias & BI:** Power BI (DAX), Modelagem de Dados Relacional.
-* **Fundamentos:** Lógica de Programação e Algoritmos.
+* **Linguagens:** Java (estudando a fundo), SQL.
+* **Dados & BI:** SQLite, MySQL, Power BI (Criação de Dashboards e fórmulas DAX).
 * **Ferramentas:** VS Code, Git, GitHub.
 
 
