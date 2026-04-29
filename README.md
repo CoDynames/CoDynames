@@ -4,18 +4,19 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas na Unifametro**, em Fo
 
 ### 🚀 No que estou trabalhando agora:
 
-* **Sistema de Inventário e Inteligência de Dados (Em Desenvolvimento):**
-    * Estou liderando a **Arquitetura de Dados** de uma solução de inventário complexo, estruturando o banco de dados em **SQLite** com foco em normalização e integridade referencial.
-    * Atuo na **Engenharia de Backend**, desenvolvendo em **Java** a camada de persistência e as regras de negócio que permitem a comunicação eficiente entre a aplicação e a base de dados.
-    * Responsável pela vertical de **Business Intelligence**, onde utilizo **Power BI e DAX** para construir dashboards de monitoramento que transformam os registros brutos em indicadores estratégicos (KPIs) em tempo real.
-    * Foco atual: Otimização de queries SQL e melhoria na escalabilidade da integração Java-Database para garantir a performance do sistema.
-
-* **Evolução Técnica:** Dedicando tempo ao estudo de novas bibliotecas Java e técnicas avançadas de modelagem de dados para implementar melhorias contínuas neste e em futuros projetos.
+* **Projeto APS - Sistema de Inventário e Inteligência de Dados (Unifametro):**
+    * Desenvolvendo uma solução voltada para o mapeamento e gestão de **espécies botânicas adequadas para cultivo em ambientes internos (janelas)**.
+    * Atuando como **Responsável pela Arquitetura de Dados**, liderei a modelagem e estruturação do banco de dados relacional em **SQLite**, garantindo a integridade e a normalização das informações de cada espécie.
+    * Atuação estratégica na **Vertical de Business Intelligence**, desenvolvendo dashboards no **Power BI** com fórmulas **DAX** para transformar os dados de cultivo e características das plantas em indicadores de monitoramento em tempo real.
+    * Colaboração ativa no **Desenvolvimento Backend**, auxiliando na implementação da lógica de persistência e na comunicação entre a base de dados e a aplicação em **Java**.
+    * Foco atual: Otimização de consultas SQL e suporte à integração de sistemas para garantir a performance da solução final entregue pela equipe.
 
 ### 🛠️ Meu Toolbox:
-* **Linguagens:** Java (estudando a fundo), SQL, Lógica de Programação.
-* **Dados & BI:** SQLite, MySQL, Power BI (Criação de Dashboards e fórmulas DAX).
-* **Ferramentas:** VS Code, Git, GitHub, DB Browser for SQLite.
+* **Linguagens:** Java, SQL (SQLite/MySQL).
+* **Tecnologias & BI:** Power BI (DAX), Modelagem de Dados Relacional.
+* **Fundamentos:** Lógica de Programação e Algoritmos.
+* **Ferramentas:** VS Code, Git, GitHub.
+
 
 ### 🌱 O que estou aprendendo:
 * Aprofundando em arquitetura de sistemas e POO (Programação Orientada a Objetos) com Java.
