@@ -1,6 +1,6 @@
 # Olá, eu sou Pedro Felipe Costa 👋
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unifametro, apaixonado por tecnologia e back-end. Atualmente, estou em transição de carreira, focando em aprofundar meus conhecimentos em arquitetura de dados e desenvolvimento de sistemas.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unifametro, apaixonado por tecnologia e back-end, Atualmente focando em aprofundar meus conhecimentos em arquitetura de dados e desenvolvimento de sistemas.
 
 ### 🚀 Sobre mim
 *   **Foco técnico:** Back-end, Banco de Dados e infraestrutura de sistemas.
