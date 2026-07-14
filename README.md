@@ -1,21 +1,15 @@
-## Olá! Eu sou o Pedro Felipe (CoDynames) 👋
+# Olá, eu sou Pedro Felipe Costa 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Unifametro**, em Fortaleza/CE.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unifametro, apaixonado por tecnologia e back-end. Atualmente, estou em transição de carreira, focando em aprofundar meus conhecimentos em arquitetura de dados e desenvolvimento de sistemas.
 
-### No que estou trabalhando e projetos desenvolvidos:
+### 🚀 Sobre mim
+*   **Foco técnico:** Back-end, Banco de Dados e infraestrutura de sistemas.
+*   **Objetivo:** Aprimorar meus conhecimentos, atualmente estagiando na empresa CONAB em Fortaleza.
 
-* **Projeto APS - Smart Garden Automatizado (APS):**
-    * Desenvolvimento de uma aplicação em **Java** voltada para o monitoramento e automação de cuidados botânicos em tempo real, utilizando conceitos puros de **Lógica Proposicional e Lógica Matemática**.
-    * Implementação de uma arquitetura de tomada de decisões baseada na proposição composta $S = ((P \lor Q) \land \neg R) \lor R$ para o gerenciamento de atuadores (irrigadores, toldos retráteis e sistemas de repelência).
-    * Criação de uma interface rica de terminal baseada em códigos de escape **ANSI** para estilização dinâmica e renderização de artes complexas em **ASCII Art** para representar o status físico dos sensores de forma puramente textual.
-    * Modelagem de fluxos de controle robustos com tratamento de loops persistentes e travas lógicas para garantir a integridade dos estados de segurança contra pragas botânicas.
-
-* **Projeto APS - Sistema de Inventário e Inteligência de Dados (APS):**
-    * Desenvolvendo uma solução voltada para o mapeamento e gestão de **espécies botânicas adequadas para cultivo em ambientes internos (janelas)**.
-    * Atuando como **Responsável pela Arquitetura de Dados**, liderei a modelagem e estruturação do banco de dados relacional em **SQLite**, garantindo a integridade e a normalização das informações de cada espécie.
-    * Atuação estratégica na **Vertical de Business Intelligence**, desenvolvendo dashboards no **Power BI** com fórmulas **DAX** para transformar os dados de cultivo e características das plantas em indicadores de monitoramento em tempo real.
-    * Colaboração ativa no **Desenvolvimento Backend**, auxiliando na implementação da lógica de persistência e na comunicação entre a base de dados e a aplicação em **Java**.
-    * Otimização de consultas SQL e suporte à integração de sistemas para garantir a performance da solução final entregue pela equipe.
+### 📂 Projetos em Destaque
+*   **Projeto APS - Gerenciamento de Plantas:** Desenvolvimento de sistema para gestão de dados focados em cultivo indoor. Responsável pela estruturação do banco de dados e suporte ao back-end.
+*   **Projeto APS - SMART GARDEN:** Desenvolvi um Sistema de jarro de planta inteligente a primicia do codigo foi ser baseado em uma formula de logica matematica e focar no polimento do codigo deixando ele a prova de erros.
+*   **Projeto Pessoal - OF EASY SEARCH:** Desenvolvi uma extensao tipo o "Ctrl + F" so que mais sofisticado e mais preciso com a intençao de ajudar os funcionarios mais idosos da minha empresa a pesquisar caracteres de forma mais destacada, precisa e confortavel a os olhos.   
 
 ### 🛠️ Meu Toolbox:
 * **Linguagens:** Java (estudando a fundo), SQL.
